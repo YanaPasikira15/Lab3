@@ -1,0 +1,14 @@
+{
+  "name": "prakt_1",
+  "version": "0.0.0",
+  "description": "Prakt_1",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}

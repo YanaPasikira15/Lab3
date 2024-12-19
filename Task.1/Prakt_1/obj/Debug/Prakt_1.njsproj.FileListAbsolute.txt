@@ -1,0 +1,3 @@
+C:\Users\XXX\source\repos\Task.1\Prakt_1\obj\Debug\Prakt_1.njsproj.AssemblyReference.cache
+C:\Users\XXX\source\repos\Task.1\Prakt_1\obj\Debug\Prakt_1.njsproj.CoreCompileInputs.cache
+C:\Users\XXX\source\repos\Task.1\Prakt_1\bin\Microsoft.NodejsTools.WebRole.dll
